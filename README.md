@@ -5,7 +5,7 @@
 - 🔭 Atualmente estagiária no Tribunal Regional do Trabalho da 7ª Região (TRT-7), na área de Inovação, exercendo a função de assistente de desenvolvimento de sistemas. Recentemente também atuei na Iniciação Científica da Unifor, participando de atividades de pesquisa e desenvolvimento acadêmico. Também fui monitora na Unifor, apoiando estudantes na cadeira de Fundamentos de Sistemas Computacionais.
  
 - 🌱 Atualmente estou aprendendo:  
-  **Python**, **JavaScript**, **Análise de Dados**
+  **Python**, **Análise de Dados**
 
 - 🤔 Buscando ajuda com:  
   Aperfeiçoar minhas habilidades em desenvolvimento e boas práticas de software
